@@ -1,0 +1,95 @@
+ForgeUI started up!
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'TutorialOverlay'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'ToolTips'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'DebugPanel'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'IntroScreen'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'DebugHotloadCache'		parent: 'DebugContext'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'DebugHotloadCache'
+END   ContextBase::Initialize() id: 'DebugContext'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'SubtitleContext'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'Intro'		parent: 'StartupScreen'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Intro'
+END   ContextBase::Initialize() id: 'StartupScreen'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'MainMenu'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Options'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsContext'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'AdvancedSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ScenarioSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'CreditsScreen'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'CreditsScreen'
+START  LuaContext::Initialize() id: 'My2K'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'My2K'
+START  LuaContext::Initialize() id: 'WorldBuilder'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'TutorialSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Lobby'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'Lobby'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'Lobby'
+START  LuaContext::Initialize() id: 'HostGame'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ModsMenu'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'HostGame'
+START  LuaContext::Initialize() id: 'StagingRoom'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+START  LuaContext::Initialize() id: 'EditHotseatPlayer'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'EditHotseatPlayer'
+END    LuaContext::Initialize() id: 'StagingRoom'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'FrontEndPopup'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'FrontEndPopup'
+END    LuaContext::Initialize() id: 'MainMenu'
+START  LuaContext::Initialize() id: 'JoiningRoom'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'JoiningRoom'
+START  LuaContext::Initialize() id: 'UserSetupWarning'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'UserSetupWarning'
+START  LuaContext::Initialize() id: 'Test'		parent: ''		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'Test'
+END    LuaContext::Initialize() id: 'FrontEnd'
+[1537619856600] (SHUTDOWN) ===============================
+
+NumBlocks:   1 
+Allocated: 4.00 mb, Used: 4.00 mb, Free: 0.00 mb 
+
+NumControls: 2520 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 28
+
+Child Node distribution
+   16 nodes have     0 children
+    8 nodes have     1 children
+    2 nodes have     2 children
+    2 nodes have     3 children
+
+Controls ID distribution
+   11 nodes have control IDs with     0 characters
+    1 nodes have control IDs with     7 characters
+    4 nodes have control IDs with     8 characters
+    3 nodes have control IDs with     9 characters
+    2 nodes have control IDs with    10 characters
+    5 nodes have control IDs with    11 characters
+    1 nodes have control IDs with    12 characters
+    1 nodes have control IDs with    13 characters
+
+Contexts containing controls:
+   14 controls in context "DebugPanel"
+   11 controls in context "[NO CONTEXT]"
+    3 controls in context "ToolTips"
+ForgeUI shutting down.

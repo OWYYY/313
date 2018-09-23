@@ -1,0 +1,134 @@
+2018.09.03 08:56:02.980 | cTrader started
+2018.09.04 05:39:15.058 | cTrader started
+2018.09.05 16:26:29.802 | Request to Buy 0.01 手数 AUDSGD is sent to server
+2018.09.05 16:26:30.396 | → Request to Buy 0.01 手数 AUDSGD is ACCEPTED, order OID47159679 created (05/09/2018 16:26:30.034 UTC+0)
+2018.09.05 16:26:30.506 | → Order OID47159679 is FILLED at 0.98958, position PID27713428 (05/09/2018 16:26:30.160 UTC+0)
+2018.09.07 08:20:38.524 | cTrader started
+2018.09.07 08:22:21.139 | Request to amend position PID27731348 (TP: 1.61905) is sent to server
+2018.09.07 08:22:21.671 | → Request to amend position PID27731348 (TP: 1.61905) is ACCEPTED
+2018.09.07 08:23:09.499 | Request to amend position PID27731348 (TP: 1.50410) is sent to server
+2018.09.07 08:23:09.936 | → Request to amend position PID27731348 (TP: 1.50410) is ACCEPTED
+2018.09.07 08:57:43.160 | Request to CANCEL order OID47034445 is sent to server
+2018.09.07 08:57:43.176 | Request to CANCEL order OID47096815 is sent to server
+2018.09.07 08:57:43.176 | Request to CANCEL order OID47038635 is sent to server
+2018.09.07 08:57:43.176 | Request to CANCEL order OID47116072 is sent to server
+2018.09.07 08:57:43.176 | Request to CANCEL order OID47057767 is sent to server
+2018.09.07 08:57:43.176 | Request to CANCEL order OID47042375 is sent to server
+2018.09.07 08:57:44.301 | → Limit order to BUY 0.10 手数 AUDCAD OID47034445 is CANCELLED (07/09/2018 08:57:43.457 UTC+0)
+2018.09.07 08:57:44.347 | → Limit order to SELL 0.03 手数 EURGBP OID47096815 is CANCELLED (07/09/2018 08:57:43.545 UTC+0)
+2018.09.07 08:57:44.394 | → Limit order to BUY 0.20 手数 AUDCAD OID47038635 is CANCELLED (07/09/2018 08:57:43.545 UTC+0)
+2018.09.07 08:57:44.457 | → Limit order to SELL 0.01 手数 USDTRY OID47116072 is CANCELLED (07/09/2018 08:57:43.545 UTC+0)
+2018.09.07 08:57:44.488 | → Limit order to SELL 0.10 手数 EURNOK OID47057767 is CANCELLED (07/09/2018 08:57:43.545 UTC+0)
+2018.09.07 08:57:44.535 | → Limit order to BUY 0.20 手数 NZDCAD OID47042375 is CANCELLED (07/09/2018 08:57:43.546 UTC+0)
+2018.09.07 19:53:33.381 | Request to amend position PID27731348 (TP: 1.56108) is sent to server
+2018.09.07 19:53:33.788 | → Request to amend position PID27731348 (TP: 1.56108) is ACCEPTED
+2018.09.07 19:53:35.678 | Request to amend position PID27731348 (TP: 1.61612) is sent to server
+2018.09.07 19:53:36.163 | → Request to amend position PID27731348 (TP: 1.61612) is ACCEPTED
+2018.09.07 19:53:41.085 | Request to amend position PID27731348 (TP: 1.60423) is sent to server
+2018.09.07 19:53:41.585 | → Request to amend position PID27731348 (TP: 1.60423) is ACCEPTED
+2018.09.10 19:47:03.585 | cTrader started
+2018.09.10 19:49:20.520 | Request to amend position PID27654523 (SL: 0.80988) is sent to server
+2018.09.10 19:49:21.098 | → Request to amend position PID27654523 (SL: 0.80988) is ACCEPTED
+2018.09.10 19:49:22.098 | Request to amend position PID27654523 (remove SL) is sent to server
+2018.09.10 19:49:22.442 | → Request to amend position PID27654523 (remove SL) is ACCEPTED
+2018.09.12 13:36:28.742 | cTrader started
+2018.09.12 14:45:13.971 | Request to amend position PID27731348 (TP: 1.61205) is sent to server
+2018.09.12 14:45:14.565 | → Request to amend position PID27731348 (TP: 1.61205) is ACCEPTED
+2018.09.12 18:05:34.565 | Request to amend position PID27731348 (TP: 1.60240) is sent to server
+2018.09.12 18:05:35.018 | → Request to amend position PID27731348 (TP: 1.60240) is ACCEPTED
+2018.09.13 08:00:51.973 | cTrader started
+2018.09.13 12:36:52.790 | Request to amend position PID27731348 (TP: 1.58340) is sent to server
+2018.09.13 12:36:53.962 | → Request to amend position PID27731348 (TP: 1.58340) is ACCEPTED
+2018.09.13 13:57:02.657 | Request to amend position PID27731348 (TP: 1.60637) is sent to server
+2018.09.13 13:57:03.047 | → Request to amend position PID27731348 (TP: 1.60637) is ACCEPTED
+2018.09.13 13:57:05.797 | Request to amend position PID27731348 (TP: 1.61403) is sent to server
+2018.09.13 13:57:06.235 | → Request to amend position PID27731348 (TP: 1.61403) is ACCEPTED
+2018.09.13 14:06:31.014 | Request to close position PID27731348 is sent to server
+2018.09.13 14:06:31.623 | → Request to close position PID27731348 is ACCEPTED, order OID47220466 created (13/09/2018 14:06:31.373 UTC+0)
+2018.09.13 14:06:32.029 | → Order OID47220466 is FILLED at 1.61848, position PID27731348 closed (13/09/2018 14:06:31.490 UTC+0)
+2018.09.13 14:24:13.311 | Limit order to Sell 0.05 手数 EURAUD (Price: 1.63744) is sent to server
+2018.09.13 14:24:13.858 | → Limit order OID47220728 to Sell 0.05 手数 EURAUD (Price: 1.63744) is ACCEPTED (13/09/2018 14:24:13.572 UTC+0)
+2018.09.13 14:24:18.186 | Request to amend order OID47220728 (Price: 1.63377) is sent to server
+2018.09.13 14:24:18.983 | → Request to amend order OID47220728 (Price: 1.63377) is ACCEPTED (13/09/2018 14:24:18.450 UTC+0)
+2018.09.13 14:24:23.811 | Request to amend order OID47220728 (Price: 1.62471) is sent to server
+2018.09.13 14:24:24.155 | → Request to amend order OID47220728 (Price: 1.62471) is ACCEPTED (13/09/2018 14:24:23.992 UTC+0)
+2018.09.13 14:24:27.640 | Request to amend order OID47220728 (Price: 1.62894) is sent to server
+2018.09.13 14:24:28.718 | → Request to amend order OID47220728 (Price: 1.62894) is ACCEPTED (13/09/2018 14:24:28.465 UTC+0)
+2018.09.13 14:24:33.452 | Request to amend order OID47220728 (SL: 130.5) is sent to server
+2018.09.13 14:24:33.796 | → Request to amend order OID47220728 (SL: 130.5) is ACCEPTED (13/09/2018 14:24:33.633 UTC+0)
+2018.09.13 14:24:46.265 | Request to amend position PID27713428 (TP: 1.00257) is sent to server
+2018.09.13 14:24:46.671 | → Request to amend position PID27713428 (TP: 1.00257) is ACCEPTED
+2018.09.13 14:31:18.296 | Request to CANCEL order OID47220728 is sent to server
+2018.09.13 14:31:19.015 | → Limit order to SELL 0.05 手数 EURAUD OID47220728 is CANCELLED (13/09/2018 14:31:18.627 UTC+0)
+2018.09.13 14:32:24.265 | Request to Sell 0.05 手数 EURAUD is sent to server
+2018.09.13 14:32:24.671 | → Request to Sell 0.05 手数 EURAUD is ACCEPTED, order OID47220789 created (13/09/2018 14:32:24.486 UTC+0)
+2018.09.13 14:32:24.765 | → Order OID47220789 is FILLED at 1.62090, position PID27804712 (13/09/2018 14:32:24.594 UTC+0)
+2018.09.13 14:33:02.874 | Request to amend position PID27804712 (TP: 1.60657) is sent to server
+2018.09.13 14:33:03.296 | → Request to amend position PID27804712 (TP: 1.60657) is ACCEPTED
+2018.09.13 14:33:13.608 | Request to amend position PID27804712 (TP: 1.60567) is sent to server
+2018.09.13 14:33:14.202 | → Request to amend position PID27804712 (TP: 1.60567) is ACCEPTED
+2018.09.13 14:33:37.811 | Request to Sell 0.05 手数 EURAUD is sent to server
+2018.09.13 14:33:38.577 | → Request to Sell 0.05 手数 EURAUD is ACCEPTED, order OID47220798 created (13/09/2018 14:33:38.077 UTC+0)
+2018.09.13 14:33:38.593 | → Order OID47220798 is FILLED at 1.62089, position PID27804712 (13/09/2018 14:33:38.179 UTC+0)
+2018.09.13 15:11:15.406 | Request to amend position PID27804712 (TP: 1.60676) is sent to server
+2018.09.13 15:11:15.797 | → Request to amend position PID27804712 (TP: 1.60676) is ACCEPTED
+2018.09.14 05:47:42.883 | cTrader started
+2018.09.14 13:21:51.644 | Request to amend position PID27804712 (TP: 1.61863) is sent to server
+2018.09.14 13:21:52.191 | → Request to amend position PID27804712 (TP: 1.61863) is ACCEPTED
+2018.09.16 20:10:41.039 | cTrader started
+2018.09.18 16:19:29.294 | → Order OID47220796 is FILLED at 1.61842, position PID27804712 closed (18/09/2018 16:19:28.978 UTC+0)
+2018.09.18 16:20:28.502 | Request to Sell 0.05 手数 EURAUD is sent to server
+2018.09.18 16:20:29.002 | → Request to Sell 0.05 手数 EURAUD is ACCEPTED, order OID47247605 created (18/09/2018 16:20:28.744 UTC+0)
+2018.09.18 16:20:29.143 | → Order OID47247605 is FILLED at 1.61818, position PID27817715 (18/09/2018 16:20:28.836 UTC+0)
+2018.09.18 23:32:40.868 | Request to amend position PID27713428 (TP: 1.00481) is sent to server
+2018.09.18 23:32:41.337 | → Request to amend position PID27713428 (TP: 1.00481) is ACCEPTED
+2018.09.18 23:32:42.040 | Request to amend position PID27713428 (TP: 1.00705) is sent to server
+2018.09.18 23:32:42.368 | → Request to amend position PID27713428 (TP: 1.00705) is ACCEPTED
+2018.09.19 05:57:09.557 | Request to amend position PID27817715 (SL: 1.64819) is sent to server
+2018.09.19 05:57:10.182 | → Request to amend position PID27817715 (SL: 1.64819) is ACCEPTED
+2018.09.19 05:57:17.479 | Request to amend position PID27817715 (TP: 1.56268) is sent to server
+2018.09.19 05:57:17.917 | → Request to amend position PID27817715 (TP: 1.56268) is ACCEPTED
+2018.09.19 17:14:55.951 | Request to amend position PID27676905 (SL: 0.92720) is sent to server
+2018.09.19 17:14:56.373 | → Request to amend position PID27676905 (SL: 0.92720) is ACCEPTED
+2018.09.19 17:14:57.201 | Request to amend position PID27676905 (remove SL) is sent to server
+2018.09.19 17:14:57.623 | → Request to amend position PID27676905 (remove SL) is ACCEPTED
+2018.09.19 17:15:11.013 | Request to amend position PID27676905 (TP: 1.00586) is sent to server
+2018.09.19 17:15:11.404 | → Request to amend position PID27676905 (TP: 1.00586) is ACCEPTED
+2018.09.19 17:15:19.154 | Request to amend position PID27676905 (TP: 0.97995) is sent to server
+2018.09.19 17:15:19.560 | → Request to amend position PID27676905 (TP: 0.97995) is ACCEPTED
+2018.09.19 17:15:22.341 | Request to amend position PID27676905 (TP: 0.97750) is sent to server
+2018.09.19 17:15:22.810 | → Request to amend position PID27676905 (TP: 0.97750) is ACCEPTED
+2018.09.19 20:46:19.160 | Request to amend position PID27817715 (SL: 1.63371) is sent to server
+2018.09.19 20:46:19.535 | → Request to amend position PID27817715 (SL: 1.63371) is ACCEPTED
+2018.09.19 20:46:26.660 | Request to amend position PID27817715 (TP: 1.58741) is sent to server
+2018.09.19 20:46:27.051 | → Request to amend position PID27817715 (TP: 1.58741) is ACCEPTED
+2018.09.19 20:47:12.160 | Request to amend position PID27676905 (TP: 0.98923) is sent to server
+2018.09.19 20:47:12.582 | → Request to amend position PID27676905 (TP: 0.98923) is ACCEPTED
+2018.09.19 20:48:22.801 | Request to amend position PID27713428 (TP: 1.03760) is sent to server
+2018.09.19 20:48:23.317 | → Request to amend position PID27713428 (TP: 1.03760) is ACCEPTED
+2018.09.19 21:54:38.505 | Request to close position PID27817715 is sent to server
+2018.09.19 21:54:39.036 | → Request to close position PID27817715 is ACCEPTED, order OID47256979 created (19/09/2018 21:54:38.715 UTC+0)
+2018.09.19 21:54:39.083 | → Order OID47256979 is FILLED at 1.60753, position PID27817715 closed (19/09/2018 21:54:38.804 UTC+0)
+2018.09.21 18:14:32.183 | Limit order to Sell 0.01 手数 EURAUD (Price: 1.63073) is sent to server
+2018.09.21 18:14:32.902 | → Limit order OID47278080 to Sell 0.01 手数 EURAUD (Price: 1.63073) is ACCEPTED (21/09/2018 18:14:32.360 UTC+0)
+2018.09.21 18:14:42.730 | Request to amend order OID47278080 (Price: 1.62451) is sent to server
+2018.09.21 18:14:43.168 | → Request to amend order OID47278080 (Price: 1.62451) is ACCEPTED (21/09/2018 18:14:42.927 UTC+0)
+2018.09.21 18:14:49.074 | Request to amend order OID47278080 (remove SL, remove TP) is sent to server
+2018.09.21 18:14:49.480 | → Request to amend order OID47278080 (remove SL, remove TP) is ACCEPTED (21/09/2018 18:14:49.254 UTC+0)
+2018.09.21 18:15:05.699 | Request to Sell 0.05 手数 EURAUD is sent to server
+2018.09.21 18:15:06.074 | → Request to Sell 0.05 手数 EURAUD is ACCEPTED, order OID47278081 created (21/09/2018 18:15:05.860 UTC+0)
+2018.09.21 18:15:06.152 | → Order OID47278081 is FILLED at 1.61358, position PID27831260 (21/09/2018 18:15:05.972 UTC+0)
+2018.09.21 18:15:10.199 | Request to amend order OID47278080 (Price: 1.63509) is sent to server
+2018.09.21 18:15:10.918 | → Request to amend order OID47278080 (Price: 1.63509) is ACCEPTED (21/09/2018 18:15:10.371 UTC+0)
+2018.09.21 20:48:35.448 | Limit order to Sell 0.01 手数 USDCNH (Price: 6.97817) is sent to server
+2018.09.21 20:48:35.869 | → Limit order OID47278326 to Sell 0.01 手数 USDCNH (Price: 6.97817) is ACCEPTED (21/09/2018 20:48:35.662 UTC+0)
+2018.09.21 20:48:39.573 | Request to amend order OID47278326 (Price: 6.94891) is sent to server
+2018.09.21 20:48:39.948 | → Request to amend order OID47278326 (Price: 6.94891) is ACCEPTED (21/09/2018 20:48:39.744 UTC+0)
+2018.09.21 20:48:42.635 | Request to amend order OID47278326 (SL: 1469.9) is sent to server
+2018.09.21 20:48:43.604 | → Request to amend order OID47278326 (SL: 1469.9) is ACCEPTED (21/09/2018 20:48:43.416 UTC+0)
+2018.09.21 20:48:48.682 | Request to amend order OID47278326 (remove TP) is sent to server
+2018.09.21 20:48:49.213 | → Request to amend order OID47278326 (remove TP) is ACCEPTED (21/09/2018 20:48:48.863 UTC+0)
+2018.09.21 20:48:56.526 | Request to amend order OID47278326 (SL: 1469.9, TP: 4570.7) is sent to server
+2018.09.21 20:48:56.932 | → Request to amend order OID47278326 (SL: 1469.9, TP: 4570.7) is ACCEPTED (21/09/2018 20:48:56.701 UTC+0)
+2018.09.21 20:49:08.354 | Request to amend order OID47278326 is sent to server
+2018.09.21 20:49:08.916 | → Request to amend order OID47278326 is ACCEPTED (21/09/2018 20:49:08.557 UTC+0)

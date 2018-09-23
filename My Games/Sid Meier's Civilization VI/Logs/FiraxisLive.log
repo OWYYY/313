@@ -1,0 +1,134 @@
+Using FiraxisLive API 346047: flClient Live Build:346047
+Using ctpLogPath: C:\Users\32609\Documents/My Games\Sid Meier's Civilization VI/Logs\
+Using ctpGameDataPath: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\
+Creating firaxis live...
+FiraxisLive created
+Setting firaxis live debug info...
+Adding firaxis live notification handlers...
+Starting firaxis live...
+[9/22/2018 12:36:23.810] FiraxisLive.cpp(258) FiraxisLive::Start - Build: flClient Live Build:346047
+[9/22/2018 12:36:23.810] FiraxisLive.cpp(266) FiraxisLive::Start - Client build version: 362541 (0x000000000005882d) "362541"
+[9/22/2018 12:36:23.811] FiraxisLive.cpp(277) FiraxisLive::Start - Creating server connection...
+[9/22/2018 12:36:23.811] FiraxisLive.cpp(316) FiraxisLive::Start - Starting up threads...
+[9/22/2018 12:36:23.811] Win32Thread.cpp(289) Thread "FiraxisLive Thread" (ID:0x00008e88) has started.
+[9/22/2018 12:36:23.811] FiraxisLive.cpp(322) FiraxisLive::Start - Running
+[9/22/2018 12:36:23.812] CTPFiraxisLive.cpp(22) CTP version: 2.0.6
+[9/22/2018 12:36:23.817] CTPFiraxisLive.cpp(2262) Set locale success
+[9/22/2018 12:36:23.817] CTPFiraxisLive.cpp(2281) Failed to set region with error 531 (ERROR_INVALID_PARAMETERS)
+FiraxisLive started
+[9/22/2018 12:36:23.843] Win32TCPSocket.cpp(158) 1228: Attempting to connect to login.firaxislive.com:443
+[9/22/2018 12:36:24.194] Win32TCPSocket.cpp(168) 1228: Connected to 34.194.217.18:443 (resolved from login.firaxislive.com:443)
+[9/22/2018 12:36:24.602] ServerConnection.cpp(375) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+FiraxisLiveClient StateNotify: PreRun
+FiraxisLiveClient StateNotify: FirstConnect
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/Configuration/1, NumObjects=1
+* KeyName=App/FiraxisLive/OnlineTelemetryConfiguration.xml/blacklist-2018-09-20, Size=876, CreatedDate=1537454249, LastUpdate=1537454249
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/MarketingMessage, NumObjects=1
+* KeyName=App/FiraxisLive/MarketingMessage/civ6-motd-2018-03-06.xml, Size=2707, CreatedDate=1520627504, LastUpdate=1520627504
+FiraxisLiveClient StateNotify: Running
+[9/22/2018 12:36:39.717] AnalyticsManager.cpp(285) AnalyticsManager - Queued 7 data points, with a total of 42 attributes.
+[9/22/2018 12:36:39.717] ServerConnection.cpp(950) Sending queued messages
+AppFiraxisLiveClient deferring logon from app init complete
+AppFiraxisLiveClient starting logon due to app init complete
+Beginning platform logon...
+[9/22/2018 12:36:40.232] CTPFiraxisLive.cpp(1380) Starting SSO login...
+My2KLogon successful
+[9/22/2018 12:36:43.150] CTPFiraxisLive.cpp(91) SsoLoginCallback success
+[9/22/2018 12:36:43.174] ServerConnection.cpp(950) Sending queued messages
+FiraxisLiveClient UserStateNotify: LoggingIn
+FiraxisLiveClient LoginStatusNotify: [type=Login, Successful, account=Platform]: OK
+[9/22/2018 12:36:43.253] CTPFiraxisLive.cpp(1762) No legal manifest entries
+AppFiraxisLiveClient::DoUpdate - Kando has become connected
+[9/22/2018 12:36:45.206] ServerConnection.cpp(467) Received NewAccessTokenReplyMsg
+[9/22/2018 12:36:45.206] ServerConnection.cpp(563) Processing NewAccessTokenReplyMsg - AccessToken:0x866f68b820912b3c33d89bb9000146af3860aef0f8be678d00000166014855f9
+FiraxisLiveClient UserStateNotify: LoggedIn
+[9/22/2018 12:37:30.257] ServerConnection.cpp(460) FiraxisLive::No activity, disconnecting
+[9/22/2018 12:37:30.308] Win32TCPSocket.cpp(654) 1228: Close
+FiraxisLiveClient StateNotify: Stopped
+[9/22/2018 12:37:38.709] AnalyticsManager.cpp(285) AnalyticsManager - Queued 1 data points, with a total of 2 attributes.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 1 from "StateChange"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "StateChange", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 2 from "UserStateChange"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "UserStateChange", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 3 from "ConnectionFailure"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "ConnectionFailure", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 4 from "KVPData"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPData", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 5 from "KVPDataError"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataError", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 6 from "KVPDataProgress"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataProgress", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 7 from "KVPDataList"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataList", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 8 from "SimpleKVP"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVP", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 9 from "SimpleKVPInfo"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVPInfo", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 10 from "DataPush"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "DataPush", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 11 from "MatchListData"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchListData", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 12 from "MatchCreateData"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchCreateData", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 13 from "MatchJoin"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchJoin", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 14 from "MatchStartMatch"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchStartMatch", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 15 from "MatchEndMatch"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndMatch", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 16 from "MatchKillMatch"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKillMatch", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 17 from "MatchQuitMatch"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchQuitMatch", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 18 from "MatchEndTurn"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndTurn", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 19 from "MatchKickPlayer"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKickPlayer", it has been removed as well.
+[9/22/2018 12:37:38.709] Notifications.cpp(170) Notifications: Removed receipt 20 from "MatchUpdateAttributes"
+[9/22/2018 12:37:38.709] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateAttributes", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 21 from "MatchUpdateSaveGame"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateSaveGame", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 22 from "MatchSetPlayerOrder"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerOrder", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 23 from "MatchGetInfo"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetInfo", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 24 from "MatchGetSaveGame"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetSaveGame", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 25 from "my2KLogonData"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLogonData", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 26 from "my2KNewAccountInfo"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KNewAccountInfo", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 27 from "my2KDOBInfo"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KDOBInfo", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 28 from "my2KLegalAccept"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLegalAccept", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 29 from "my2KConnectionStatus"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KConnectionStatus", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 30 from "my2KLoggedOffStatus"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoggedOffStatus", it has been removed as well.
+[9/22/2018 12:37:38.710] Notifications.cpp(170) Notifications: Removed receipt 31 from "my2KLoginStatus"
+[9/22/2018 12:37:38.710] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoginStatus", it has been removed as well.
+[9/22/2018 12:37:38.710] FiraxisLive.cpp(242) FiraxisLive: Releasing...
+[9/22/2018 12:37:38.710] FiraxisLive.cpp(1441) FiraxisLive::Shutdown - Shutting down...
+[9/22/2018 12:37:38.710] FiraxisLive.cpp(1450) FiraxisLive::Shutdown - Removing FiraxisLive my2K Manager...
+[9/22/2018 12:37:38.726] FiraxisLive.cpp(1464) FiraxisLive::Shutdown - Creating End Session data...
+[9/22/2018 12:37:38.726] FiraxisLive.cpp(1468) FiraxisLive::Shutdown - Flushing all analytics...
+[9/22/2018 12:37:38.726] FiraxisLive.cpp(1472) FiraxisLive::Shutdown - Flushing KVPQueue::Default data...
+[9/22/2018 12:37:38.726] FiraxisLive.cpp(1476) FiraxisLive::Shutdown - Flushing messages...
+[9/22/2018 12:37:38.766] Win32TCPSocket.cpp(158) 1400: Attempting to connect to login.firaxislive.com:443
+[9/22/2018 12:37:39.055] Win32TCPSocket.cpp(168) 1400: Connected to 54.85.112.228:443 (resolved from login.firaxislive.com:443)
+[9/22/2018 12:37:39.511] ServerConnection.cpp(375) FiraxisLive::Connected
+[9/22/2018 12:37:39.612] ServerConnection.cpp(950) Sending queued messages
+[9/22/2018 12:37:39.637] FiraxisLive.cpp(1533) FiraxisLive::Shutdown - Stopping FiraxisLive processing thread...
+[9/22/2018 12:37:39.663] Win32Thread.cpp(365) Thread "FiraxisLive Thread" (ID:0x00008e88) has shut down.
+[9/22/2018 12:37:39.663] Win32Thread.cpp(40) Thread "FiraxisLive Thread" (ID:0x00008e88) is being destroyed.
+[9/22/2018 12:37:39.663] FiraxisLive.cpp(1537) FiraxisLive::Shutdown - Removing FiraxisLive AnalyticsManager...
+[9/22/2018 12:37:39.663] FiraxisLive.cpp(1540) FiraxisLive::Shutdown - Removing FiraxisLive MatchMaking...
+[9/22/2018 12:37:39.663] FiraxisLive.cpp(1543) FiraxisLive::Shutdown - Removing FiraxisLive Key-Value-Pair Manager...
+[9/22/2018 12:37:39.663] FiraxisLive.cpp(1547) FiraxisLive::Shutdown - Removing FiraxisLive connector...
+[9/22/2018 12:37:39.663] Win32TCPSocket.cpp(654) 1400: Close
+[9/22/2018 12:37:39.994] FiraxisLive.cpp(1550) FiraxisLive::Shutdown - Removing Notifications...
+[9/22/2018 12:37:39.994] Notifications.cpp(18) Notifications: Going away...
+[9/22/2018 12:37:39.994] FiraxisLive.cpp(1559) FiraxisLive::Shutdown - Complete

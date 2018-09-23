@@ -1,0 +1,18 @@
+2018.08.29 05:32:15.531 | cTrader started
+2018.08.29 05:42:51.380 | cTrader started
+2018.08.29 07:02:41.483 | Request to Buy 0.04 手数 AUDCAD is sent to server
+2018.08.29 07:02:42.295 | → Request to Buy 0.04 手数 AUDCAD is ACCEPTED, order OID47105109 created (29/08/2018 07:02:41.982 UTC+0)
+2018.08.29 07:02:42.436 | → Order OID47105109 is FILLED at 0.94393, position PID27676905 (29/08/2018 07:02:42.097 UTC+0)
+2018.08.29 07:03:09.139 | Request to amend order OID47034445 (Price: 0.93214) is sent to server
+2018.08.29 07:03:09.936 | → Request to amend order OID47034445 (Price: 0.93214) is ACCEPTED (29/08/2018 07:03:09.382 UTC+0)
+2018.08.29 15:27:23.900 | cTrader started
+2018.08.29 15:29:17.415 | Request to amend order OID47034445 (Price: 0.92836) is sent to server
+2018.08.29 15:29:17.977 | → Request to amend order OID47034445 (Price: 0.92836) is ACCEPTED (29/08/2018 15:29:17.633 UTC+0)
+2018.08.30 03:28:12.435 | cTrader started
+2018.08.30 03:30:47.049 | Request to amend order OID47042375 (Price: 0.85148) is sent to server
+2018.08.30 03:30:47.611 | → Request to amend order OID47042375 (Price: 0.85148) is ACCEPTED (30/08/2018 03:30:47.256 UTC+0)
+2018.08.30 03:30:54.720 | Request to amend order OID47042375 (Price: 0.84773) is sent to server
+2018.08.30 03:30:55.189 | → Request to amend order OID47042375 (Price: 0.84773) is ACCEPTED (30/08/2018 03:30:54.892 UTC+0)
+2018.08.30 12:37:06.562 | Limit order to Sell 0.01 手数 USDTRY (Price: 7.52269) is sent to server
+2018.08.30 12:37:07.093 | → Limit order OID47116072 to Sell 0.01 手数 USDTRY (Price: 7.52269) is ACCEPTED (30/08/2018 12:37:06.838 UTC+0)
+2018.08.31 17:38:56.477 | cTrader started

@@ -1,0 +1,99 @@
+[21505.930] Initializing Modding Framework.
+[21505.930] C:/Users/32609/Documents/My Games/Sid Meier's Civilization VI/Mods.sqlite
+[21505.930] Connected to modding database!
+[21505.930] Ensuring Foreign Key support is enabled and set to initially deferred.
+[21505.930] Checking database version...
+[21505.931] Modding database is up-to-date!
+[21505.931] Loading Stored Procedures...
+[21505.932] Checking required procedures exist...
+[21505.932] Initializing database queries...
+[21505.932] Initializing Services...
+[21505.932] Component Discovery Service initialized.
+[21505.932] File Service initialized.
+[21505.932] Localization Service initialized.
+[21505.933] Mod Association Service initialized
+[21505.933] Mod Discovery Service initialized.
+[21505.934] Mod Loader Service initialized.
+[21505.934] Mod Selection Service missing. Skipping.
+[21505.934] Ownership Service initialized.
+[21505.934] Properties Service initialized.
+[21505.935] Subscription Service - Detected 0 subscriptions
+[21505.935] Subscription Service initialized.
+[21505.935] User Data Service missing. Skipping.
+[21505.935] Services initialized!
+[21505.935] Modding Framework is initialized.
+[21505.935] Initializing Modding Framework took - 5ms.
+[21505.970] Verifying enabled mods can coexist.
+[21505.971] Discovering new mods...
+[21505.999] Finished Discovery.
+[21505.999] Discovery Summary:
+[21505.999] Deleted 0 mods.
+[21505.999] Discovered 0 mods.
+[21505.999] Discovering Mods took - 27ms.
+[21506.003] Bootstrapping game content
+[21506.003] Loading Vanilla DLL.
+[21506.006] Building gameplay database.
+[21506.239] Updating gameplay database with embedded GameCore data.
+[21506.252] Updated gameplay database with GameCore data.
+[21506.266] Initializing Vanilla DLL.
+[21506.351] Instantiate GameCore UI Manager.
+[21506.351] Saving a debug version of the gameplay database.
+[21506.449] Successfully bootstrapped game content.
+[21506.462] Mod Art Files - Loading Expansion1.dep
+[21506.476] Mod Art Files - Loading DLC6.dep
+[21506.478] Mod Art Files - Loading DLC2.dep
+[21506.480] Mod Art Files - Loading DLC5.dep
+[21506.483] Mod Art Files - Loading DLC4.dep
+[21506.485] Mod Art Files - Loading DLC3.dep
+[21507.220] Configuring game content
+[21507.220] Enabled Mods (in no particular order):
+[21507.220] No active mods.
+[21507.220] Target Mods (in the order they will be applied):
+[21507.221] 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[21507.221] 1B28771A-C749-434B-9053-D1380C553DE9 (Expansion: Rise and Fall)
+[21507.221] 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[21507.222] F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[21507.222] {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[21507.222] {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[21507.226] Game configuration needs to change to match target config.
+[21507.226] Performing pre-configure processing.
+[21507.226] Rebuilding configuration database.
+[21507.226] Localization database unchanged, no rollback needed.
+[21507.226] Configuration database unchanged, no rollback needed.
+[21507.226] Applying settings.
+[21507.226] Modding Framework - Apply Settings
+[21507.227] ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[21507.227] UISettingHandler - Loading Expansion1.dep
+[21507.228] UpdateIcons - Loading Data/Expansion1_Icons_Buildings.xml
+[21507.228] UpdateIcons - Loading Data/Expansion1_Icons_Civilizations.xml
+[21507.228] UpdateIcons - Loading Data/Expansion1_Icons_Districts.xml
+[21507.228] UpdateIcons - Loading Data/Expansion1_Icons_Features.xml
+[21507.229] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[21507.229] UpdateIcons - Loading Data/Expansion1_Icons_Improvements.xml
+[21507.229] UpdateIcons - Loading Data/Expansion1_Icons_Leaders.xml
+[21507.229] UpdateIcons - Loading Data/Expansion1_Icons_UnitPortraits.xml
+[21507.229] UpdateIcons - Loading Data/Expansion1_Icons_Units.xml
+[21507.229] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Config.xml
+[21507.230] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_EarthMaps.xml
+[21507.230] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_MapSettings.xml
+[21507.231] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Players.xml
+[21507.232] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_StandardMaps.xml
+[21507.232] Creating database save point.
+[21507.232] LocalizedText - Loading Text/en_US/Expansion1_ConfigText.xml
+[21507.235] LocalizedText - Loading Text/en_US/FrontEnd_PlayByCloud.xml
+[21507.235] Warning: LocalizedText - Error Loading XML.
+[21507.235] LocalizedText - Loading Text/Expansion1_Translations_ConfigText.xml
+[21507.266] LocalizedText - Loading Text/Expansion1_Translations_ConfigText_China.xml
+[21507.266] Warning: LocalizedText - Error Loading XML.
+[21507.268] Successfully released save point.
+[21507.270] ModdingUpdateConfigurationDatabase - Loading ColdWarScenario_Config.xml
+[21507.270] ModdingUpdateConfigurationDatabase - Loading AncientRivalsScenario_Config.xml
+[21507.271] ModdingUpdateConfigurationDatabase - Loading ReligiousCombatScenario_Config.xml
+[21507.271] ModdingUpdateConfigurationDatabase - Loading NapoleonScenario_Config.xml
+[21507.272] Modding Framework - Finished Apply Settings
+[21507.702] Successfully reconfigured game.
+[21566.608] Modding Framework - Shutting down framework.
+[21566.608] Releasing Modding Framework Services...
+[21566.608] Services released!
+[21566.608] Releasing Modding Framework database queries...
+[21566.608] Queries released!

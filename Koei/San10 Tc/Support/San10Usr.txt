@@ -1,0 +1,367 @@
+Sangokushi10 System Check
+
+
+Memory : 2047M
+CPU : Pentium
+GenuineIntel
+Unknown
+MMX available
+SSE available
+SSE2 available
+family 06 model e stepping a 
+2210.061 MHz 
+
+DisplaySettings
+     320Å~ 200 True Color(32bit)
+     320Å~ 200 True Color(32bit)
+     320Å~ 200 True Color(32bit)
+     320Å~ 240 True Color(32bit)
+     320Å~ 240 True Color(32bit)
+     320Å~ 240 True Color(32bit)
+     400Å~ 300 True Color(32bit)
+     400Å~ 300 True Color(32bit)
+     400Å~ 300 True Color(32bit)
+     512Å~ 384 True Color(32bit)
+     512Å~ 384 True Color(32bit)
+     512Å~ 384 True Color(32bit)
+     640Å~ 400 True Color(32bit)
+     640Å~ 400 True Color(32bit)
+     640Å~ 400 True Color(32bit)
+     640Å~ 480 True Color(32bit)
+     640Å~ 480 True Color(32bit)
+     640Å~ 480 True Color(32bit)
+     800Å~ 600 True Color(32bit)
+     800Å~ 600 True Color(32bit)
+     800Å~ 600 True Color(32bit)
+    1024Å~ 768 True Color(32bit)
+    1024Å~ 768 True Color(32bit)
+    1024Å~ 768 True Color(32bit)
+    1152Å~ 864 True Color(32bit)
+    1152Å~ 864 True Color(32bit)
+    1152Å~ 864 True Color(32bit)
+    1280Å~ 600 True Color(32bit)
+    1280Å~ 600 True Color(32bit)
+    1280Å~ 600 True Color(32bit)
+    1280Å~ 720 True Color(32bit)
+    1280Å~ 720 True Color(32bit)
+    1280Å~ 720 True Color(32bit)
+    1280Å~ 768 True Color(32bit)
+    1280Å~ 768 True Color(32bit)
+    1280Å~ 768 True Color(32bit)
+    1280Å~ 800 True Color(32bit)
+    1280Å~ 800 True Color(32bit)
+    1280Å~ 800 True Color(32bit)
+    1280Å~ 960 True Color(32bit)
+    1280Å~ 960 True Color(32bit)
+    1280Å~ 960 True Color(32bit)
+    1280Å~1024 True Color(32bit)
+    1280Å~1024 True Color(32bit)
+    1280Å~1024 True Color(32bit)
+    1360Å~ 768 True Color(32bit)
+    1360Å~ 768 True Color(32bit)
+    1360Å~ 768 True Color(32bit)
+    1366Å~ 768 True Color(32bit)
+    1366Å~ 768 True Color(32bit)
+    1366Å~ 768 True Color(32bit)
+    1400Å~1050 True Color(32bit)
+    1400Å~1050 True Color(32bit)
+    1400Å~1050 True Color(32bit)
+    1440Å~ 900 True Color(32bit)
+    1440Å~ 900 True Color(32bit)
+    1440Å~ 900 True Color(32bit)
+    1600Å~ 900 True Color(32bit)
+    1600Å~ 900 True Color(32bit)
+    1600Å~ 900 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+    1680Å~1050 True Color(32bit)
+=>  1920Å~1080 True Color(32bit)
+     320Å~ 200 High Color
+     320Å~ 200 High Color
+     320Å~ 200 High Color
+     320Å~ 240 High Color
+     320Å~ 240 High Color
+     320Å~ 240 High Color
+     400Å~ 300 High Color
+     400Å~ 300 High Color
+     400Å~ 300 High Color
+     512Å~ 384 High Color
+     512Å~ 384 High Color
+     512Å~ 384 High Color
+     640Å~ 400 High Color
+     640Å~ 400 High Color
+     640Å~ 400 High Color
+     640Å~ 480 High Color
+     640Å~ 480 High Color
+     640Å~ 480 High Color
+     800Å~ 600 High Color
+     800Å~ 600 High Color
+     800Å~ 600 High Color
+    1024Å~ 768 High Color
+    1024Å~ 768 High Color
+    1024Å~ 768 High Color
+    1152Å~ 864 High Color
+    1152Å~ 864 High Color
+    1152Å~ 864 High Color
+    1280Å~ 600 High Color
+    1280Å~ 600 High Color
+    1280Å~ 600 High Color
+    1280Å~ 720 High Color
+    1280Å~ 720 High Color
+    1280Å~ 720 High Color
+    1280Å~ 768 High Color
+    1280Å~ 768 High Color
+    1280Å~ 768 High Color
+    1280Å~ 800 High Color
+    1280Å~ 800 High Color
+    1280Å~ 800 High Color
+    1280Å~ 960 High Color
+    1280Å~ 960 High Color
+    1280Å~ 960 High Color
+    1280Å~1024 High Color
+    1280Å~1024 High Color
+    1280Å~1024 High Color
+    1360Å~ 768 High Color
+    1360Å~ 768 High Color
+    1360Å~ 768 High Color
+    1366Å~ 768 High Color
+    1366Å~ 768 High Color
+    1366Å~ 768 High Color
+    1400Å~1050 High Color
+    1400Å~1050 High Color
+    1400Å~1050 High Color
+    1440Å~ 900 High Color
+    1440Å~ 900 High Color
+    1440Å~ 900 High Color
+    1600Å~ 900 High Color
+    1600Å~ 900 High Color
+    1600Å~ 900 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1680Å~1050 High Color
+    1920Å~1080 High Color
+     320Å~ 200 256 Color
+     320Å~ 200 256 Color
+     320Å~ 200 256 Color
+     320Å~ 240 256 Color
+     320Å~ 240 256 Color
+     320Å~ 240 256 Color
+     400Å~ 300 256 Color
+     400Å~ 300 256 Color
+     400Å~ 300 256 Color
+     512Å~ 384 256 Color
+     512Å~ 384 256 Color
+     512Å~ 384 256 Color
+     640Å~ 400 256 Color
+     640Å~ 400 256 Color
+     640Å~ 400 256 Color
+     640Å~ 480 256 Color
+     640Å~ 480 256 Color
+     640Å~ 480 256 Color
+     800Å~ 600 256 Color
+     800Å~ 600 256 Color
+     800Å~ 600 256 Color
+    1024Å~ 768 256 Color
+    1024Å~ 768 256 Color
+    1024Å~ 768 256 Color
+    1152Å~ 864 256 Color
+    1152Å~ 864 256 Color
+    1152Å~ 864 256 Color
+    1280Å~ 600 256 Color
+    1280Å~ 600 256 Color
+    1280Å~ 600 256 Color
+    1280Å~ 720 256 Color
+    1280Å~ 720 256 Color
+    1280Å~ 720 256 Color
+    1280Å~ 768 256 Color
+    1280Å~ 768 256 Color
+    1280Å~ 768 256 Color
+    1280Å~ 800 256 Color
+    1280Å~ 800 256 Color
+    1280Å~ 800 256 Color
+    1280Å~ 960 256 Color
+    1280Å~ 960 256 Color
+    1280Å~ 960 256 Color
+    1280Å~1024 256 Color
+    1280Å~1024 256 Color
+    1280Å~1024 256 Color
+    1360Å~ 768 256 Color
+    1360Å~ 768 256 Color
+    1360Å~ 768 256 Color
+    1366Å~ 768 256 Color
+    1366Å~ 768 256 Color
+    1366Å~ 768 256 Color
+    1400Å~1050 256 Color
+    1400Å~1050 256 Color
+    1400Å~1050 256 Color
+    1440Å~ 900 256 Color
+    1440Å~ 900 256 Color
+    1440Å~ 900 256 Color
+    1600Å~ 900 256 Color
+    1600Å~ 900 256 Color
+    1600Å~ 900 256 Color
+    1680Å~1050 256 Color
+    1680Å~1050 256 Color
+    1680Å~1050 256 Color
+    1920Å~1080 256 Color
+
+ KERNEL32.DLL : FileVersionInfoSize is Empty.
+ SHELL32.DLL : FileVersionInfoSize is Empty.
+ COMCTL32.DLL : FileVersionInfoSize is Empty.
+ DDRAW.DLL : FileVersionInfoSize is Empty.
+ D3D8.DLL : FileVersionInfoSize is Empty.
+ D3D9.DLL : FileVersionInfoSize is Empty.
+ DSOUND.DLL : FileVersionInfoSize is Empty.
+ KOEILW.DLL : FileVersionInfoSize is Empty.
+ KDVDDSND.DLL : FileVersionInfoSize is Empty.
+
+registry infomation 
+:ACPIÅF@acpi.inf,%*pnp0c08.devicedesc%;Microsoft ACPI-Compliant System: : Microsoft :Date 6-21-2006 Ver 10.0.16299.309: @acpi.inf,%msft%;Microsoft
+:acpipagrÅF@acpipagr.inf,%devicedesc%;ACPI Processor Aggregator: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @acpipagr.inf,%std%;(Standard system devices)
+:BasicDisplayÅF@basicdisplay.inf,%msbddfallbackname%;Microsoft Basic Display Driver: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @basicdisplay.inf,%std%;(Standard display types)
+:BasicRenderÅF@basicrender.inf,%basicrender%;Microsoft Basic Render Driver: : Microsoft :Date 6-21-2006 Ver 10.0.16299.309: @basicrender.inf,%ms%;Microsoft
+:BthPanÅF@bthpan.inf,%bthpan.displayname%;Bluetooth Device (Personal Area Network): Bluetooth Device (Personal Area Network): Microsoft :Date 6-21-2006 Ver 10.0.16299.402: @bthpan.inf,%mfgname%;Microsoft
+:BTHUSBÅF@oem8.inf,%ibt_usb%;Intel(R) Wireless Bluetooth(R): : Intel Corporation :Date 2-8-2018 Ver 20.40.0.3: @oem8.inf,%company_name%;Intel Corporation
+:CADÅF@ChargeArbitration.inf,%cad_devdesc%;Charge Arbitration Driver: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @ChargeArbitration.inf,%stdmfg%;(Standard system devices)
+:CmBattÅF@cmbatt.inf,%acpi\acpi0003.devicedesc%;Microsoft AC Adapter: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @cmbatt.inf,%msft%;Microsoft
+:CmBattÅF@cmbatt.inf,%acpi\pnp0c0a.devicedesc%;Microsoft ACPI-Compliant Control Method Battery: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @cmbatt.inf,%msft%;Microsoft
+:CompositeBusÅF@compositebus.inf,%compositebus.devicedesc%;Composite Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @compositebus.inf,%msft%;Microsoft
+:diskÅF@disk.inf,%disk_devdesc%;Disk drive: THNSN5256GPU7 TOSHIBA: Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:diskÅF@disk.inf,%disk_devdesc%;Disk drive: HGST HTS721010A9E630: Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:HDAudBusÅF@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller: : Microsoft :Date 9-28-2017 Ver 10.0.16299.15: @hdaudbus.inf,%msft%;Microsoft
+:HidEventFilterÅF@oem45.inf,%hideventfilter%;Intel(R) HID Event Filter: : Intel(R) Corporation :Date 11-1-2017 Ver 2.2.1.364: @oem45.inf,%vendor%;Intel(R) Corporation
+:HidUsbÅF@input.inf,%hid.devicedesc%;USB Input Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.492: @input.inf,%stdmfg%;(Standard system devices)
+:HidUsbÅF@input.inf,%hid.devicedesc%;USB Input Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.492: @input.inf,%stdmfg%;(Standard system devices)
+:i8042prtÅF@keyboard.inf,%*pnp0303.devicedesc%;Standard PS/2 Keyboard: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+:i8042prtÅF@oem49.inf,%smb.syndevicedesc%;Synaptics SMBus TouchPad: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem49.inf,%synmfg%;Synaptics
+:iaStorACÅF@oem37.inf,%pci\ven_8086&dev_a353&cc_0106.devicedesc%;Intel(R) 300 Series Chipset Family SATA AHCI Controller: : Intel Corporation :Date 2-7-2018 Ver 16.0.2.1086: @oem37.inf,%intel%;Intel Corporation
+:BTHUSBÅF@oem8.inf,%ibt_usb%;Intel(R) Wireless Bluetooth(R): : Intel Corporation :Date 2-8-2018 Ver 20.40.0.3: @oem8.inf,%company_name%;Intel Corporation
+:igfxÅF@oem19.inf,%icflhalogt2%;Intel(R) UHD Graphics 630: : Intel Corporation :Date 2-28-2018 Ver 23.20.16.4974: @oem19.inf,%intel%;Intel Corporation
+:intelpepÅF@intelpep.inf,%intelpep.devicedesc%;Intel(R) Power Engine Plug-in: : Microsoft :Date 6-21-2006 Ver 10.0.16299.522: @intelpep.inf,%mfgname%;Intel Corporation
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:intelppmÅF@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz: Microsoft :Date 4-21-2009 Ver 10.0.16299.371: @cpu.inf,%intel%;Intel
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:kbdhidÅF@keyboard.inf,%hid.keyboarddevice%;HID Keyboard Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+:kdnicÅF@kdnic.inf,%kdnic.devicedesc%;Microsoft Kernel Debug Network Adapter: Microsoft Kernel Debug Network Adapter: Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @kdnic.inf,%msft%;Microsoft
+:nvvad_WaveExtensibleÅF@oem34.inf,%nvvad_waveextensible.devicedesc%;NVIDIA Virtual Audio Device (Wave Extensible) (WDM): : NVIDIA :Date 12-13-2017 Ver 4.4.0.0: @oem34.inf,%mfgname%;NVIDIA
+:IntcAzAudAddServiceÅFRealtek High Definition Audio: @oem28.inf,%ExtendedFriendlyName%;Realtek(R) Audio: Realtek Semiconductor Corp. :Date 4-10-2018 Ver 6.0.1.8419: @oem27.inf,%mfgname%;Realtek
+:IntcDAudÅF@oem18.inf,%intcauddevicedesc%;Intel(R) Display Audio: : Intel(R) Corporation :Date 12-6-2017 Ver 10.24.0.3: Intel(R) Corporation
+:usbvideoÅF@usbvideo.inf,%usbvideo.devicedesc%;USB Video Device: Chicony USB2.0 Camera: Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @usbvideo.inf,%msft%;Microsoft
+:IntcAzAudAddServiceÅFRealtek High Definition Audio: @oem28.inf,%ExtendedFriendlyName%;Realtek(R) Audio: Realtek Semiconductor Corp. :Date 4-10-2018 Ver 6.0.1.8419: @oem27.inf,%mfgname%;Realtek
+:MEIx64ÅF@oem17.inf,%tee_devicedesc%;Intel(R) Management Engine Interface : : Intel :Date 1-16-2018 Ver 1803.12.0.1093: @oem17.inf,%mfgname%;Intel
+:monitorÅF@monitor.inf,%pnpmonitor.devicedesc%;Generic PnP Monitor: : Microsoft :Date 6-21-2006 Ver 10.0.16299.251: @monitor.inf,%generic%;(Standard monitor types)
+:i8042prtÅF@oem49.inf,%smb.syndevicedesc%;Synaptics SMBus TouchPad: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem49.inf,%synmfg%;Synaptics
+:mouhidÅF@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @msmouse.inf,%msmfg%;Microsoft
+:mouhidÅF@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @msmouse.inf,%msmfg%;Microsoft
+:mouhidÅF@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @msmouse.inf,%msmfg%;Microsoft
+:mouhidÅF@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @msmouse.inf,%msmfg%;Microsoft
+:HidEventFilterÅF@oem45.inf,%hideventfilter%;Intel(R) HID Event Filter: : Intel(R) Corporation :Date 11-1-2017 Ver 2.2.1.364: @oem45.inf,%vendor%;Intel(R) Corporation
+:mshidkmdfÅF@oem51.inf,%synhidmini.syndevicedesc%;Synaptics HID-Compliant Touch pad Device: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem51.inf,%synmfg%;Synaptics
+:msisadrvÅF@oem12.inf,%pci\ven_8086&dev_a30ddesc%;Intel(R) 300 Series Chipset Family LPC Controller (HM370) - A30D: : INTEL :Date 7-18-1968 Ver 10.1.16.3: @oem12.inf,%intel%;INTEL
+:mssmbiosÅF@mssmbios.inf,%root\mssmbios.devicedesc%;Microsoft System Management BIOS Driver: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @mssmbios.inf,%gendev_mfg%;(Standard system devices)
+:MTConfigÅF@mtconfig.inf,%mtconfig\com1.devicedesc%;Microsoft Input Configuration Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @mtconfig.inf,%ms%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-ip-dispname%;WAN Miniport (IP): WAN Miniport (IP): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-ipv6-dispname%;WAN Miniport (IPv6): WAN Miniport (IPv6): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-bh-dispname%;WAN Miniport (Network Monitor): WAN Miniport (Network Monitor): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:NdisVirtualBusÅF@ndisvirtualbus.inf,%ndisvirtualbus_devicedesc%;NDIS Virtual Network Adapter Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @ndisvirtualbus.inf,%msft%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-ip-dispname%;WAN Miniport (IP): WAN Miniport (IP): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-ipv6-dispname%;WAN Miniport (IPv6): WAN Miniport (IPv6): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:NdisWanÅF@netrasa.inf,%mp-bh-dispname%;WAN Miniport (Network Monitor): WAN Miniport (Network Monitor): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:Netwtw06ÅF@oem42.inf,%nic_9462ac_hmc%;Intel(R) Wireless-AC 9462: Intel(R) Wireless-AC 9462: Intel :Date 2-6-2018 Ver 20.40.0.4: @oem42.inf,%company_name%;Intel Corporation
+:nvlddmkmÅF@oem32.inf,%nvidia_dev.1c20.8500.1558%;NVIDIA GeForce GTX 1060: : NVIDIA :Date 2-22-2018 Ver 23.21.13.8904: @oem32.inf,%nvidia_a%;NVIDIA
+:nvvhciÅF@oem36.inf,%devicedesc%;NVVHCI Enumerator: : NVIDIA :Date 12-27-2016 Ver 2.2.2151.6378: @oem36.inf,%mfgname%;NVIDIA
+:diskÅF@disk.inf,%disk_devdesc%;Disk drive: THNSN5256GPU7 TOSHIBA: Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:diskÅF@disk.inf,%disk_devdesc%;Disk drive: HGST HTS721010A9E630: Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @disk.inf,%genmanufacturer%;(Standard disk drives)
+:pciÅF@pci.inf,%*pnp0a08.devicedesc%;PCI Express Root Complex: : Microsoft :Date 6-21-2006 Ver 10.0.16299.522: @pci.inf,%gendev_mfg%;(Standard system devices)
+:pciÅF@oem15.inf,%pci\ven_8086&dev_1901desc%;Intel(R) PCIe Controller (x16) - 1901: : INTEL :Date 7-18-1968 Ver 10.1.7.2: @oem15.inf,%intel%;INTEL
+:pciÅF@oem12.inf,%pci\ven_8086&dev_a330desc%;Intel(R) PCI Express Root Port #9 - A330: : INTEL :Date 7-18-1968 Ver 10.1.16.3: @oem12.inf,%intel%;INTEL
+:pciÅF@oem12.inf,%pci\ven_8086&dev_a336desc%;Intel(R) PCI Express Root Port #15 - A336: : INTEL :Date 7-18-1968 Ver 10.1.16.3: @oem12.inf,%intel%;INTEL
+:PptpMiniportÅF@netrasa.inf,%mp-pptp-dispname%;WAN Miniport (PPTP): WAN Miniport (PPTP): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:RasAgileVpnÅF@netavpna.inf,%mp-agilevpn-dispname%;WAN Miniport (IKEv2): WAN Miniport (IKEv2): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netavpna.inf,%msft%;Microsoft
+:Rasl2tpÅF@netrasa.inf,%mp-l2tp-dispname%;WAN Miniport (L2TP): WAN Miniport (L2TP): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:RasPppoeÅF@netrasa.inf,%mp-pppoe-dispname%;WAN Miniport (PPPOE): WAN Miniport (PPPOE): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netrasa.inf,%msft%;Microsoft
+:RasSstpÅF@netsstpa.inf,%mp-sstp-dispname%;WAN Miniport (SSTP): WAN Miniport (SSTP): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netsstpa.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:RFCOMMÅF@tdibth.inf,%rfcomm.displayname%;Bluetooth Device (RFCOMM Protocol TDI): Bluetooth Device (RFCOMM Protocol TDI): Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @tdibth.inf,%mfgname%;Microsoft
+:rt640x64ÅF@oem38.inf,%rtl8168.devicedesc%;Realtek PCIe GBE Family Controller: Realtek PCIe GBE Family Controller: Realtek :Date 10-3-2017 Ver 10.23.1003.2017: @oem38.inf,%realtek%;Realtek
+:SmbDrvIÅF@oem50.inf,%syndevicedesc%;Synaptics SMBus Driver: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem50.inf,%synmfg%;Synaptics
+:spaceportÅF@spaceport.inf,%spaceport_devicedesc%;Microsoft Storage Spaces Controller: : Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @spaceport.inf,%msft%;Microsoft
+:stornvmeÅF@stornvme.inf,%pci\cc_010802.devicedesc%;Standard NVM Express Controller: : Microsoft :Date 6-21-2006 Ver 10.0.16299.461: @stornvme.inf,%ms-nvme%;Standard NVM Express Controller
+:swenumÅF@swenum.inf,%swenum.devicedesc%;Plug and Play Software Device Enumerator: : Microsoft :Date 9-28-2017 Ver 10.0.16299.15: @swenum.inf,%gendev_mfg%;(Standard system devices)
+:i8042prtÅF@keyboard.inf,%*pnp0303.devicedesc%;Standard PS/2 Keyboard: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+:i8042prtÅF@oem49.inf,%smb.syndevicedesc%;Synaptics SMBus TouchPad: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem49.inf,%synmfg%;Synaptics
+:mshidkmdfÅF@oem51.inf,%synhidmini.syndevicedesc%;Synaptics HID-Compliant Touch pad Device: : Synaptics :Date 6-30-2018 Ver 19.5.32.61: @oem51.inf,%synmfg%;Synaptics
+:kbdhidÅF@keyboard.inf,%hid.keyboarddevice%;HID Keyboard Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @keyboard.inf,%std-keyboards%;(Standard keyboards)
+:TPMÅF@tpm.inf,%tpm2_desc%;Trusted Platform Module 2.0: : Microsoft :Date 6-21-2006 Ver 10.0.16299.251: @tpm.inf,%std%;(Standard)
+:tunnelÅF@nettun.inf,%teredo.displayname%;Microsoft Teredo Tunneling Adapter: Microsoft Teredo Tunneling Adapter: Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @nettun.inf,%msft%;Microsoft
+:umbusÅF@umbus.inf,%umbusroot.devicedesc%;UMBus Root Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @umbus.inf,%ms%;Microsoft
+:usbccgpÅF@usb.inf,%usb\composite.devicedesc%;USB Composite Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+:usbccgpÅF@usb.inf,%usb\composite.devicedesc%;USB Composite Device: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+:USBHUB3ÅF@usbhub3.inf,%usbhub3.roothubdevicedesc%;USB Root Hub (USB 3.0): : Microsoft :Date 6-13-2018 Ver 10.0.16299.522: @usbhub3.inf,%generic.mfg%;(Standard USB HUBs)
+:vdrvrootÅF@vdrvroot.inf,%vdrvroot.devicedesc%;Microsoft Virtual Drive Enumerator: : Microsoft :Date 6-21-2006 Ver 10.0.16299.371: @vdrvroot.inf,%msft%;Microsoft
+:volmgrÅF@volmgr.inf,%volmgr.devicedesc%;Volume Manager: : Microsoft :Date 6-21-2006 Ver 10.0.16299.461: @volmgr.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:volumeÅF@volume.inf,%volumedevicedesc%;Volume: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @volume.inf,%msft%;Microsoft
+:Netwtw06ÅF@oem42.inf,%nic_9462ac_hmc%;Intel(R) Wireless-AC 9462: Intel(R) Wireless-AC 9462: Intel :Date 2-6-2018 Ver 20.40.0.4: @oem42.inf,%company_name%;Intel Corporation
+:vwifimpÅF@netvwifimp.inf,%vwifimp_wfd.devicedesc%;Microsoft Wi-Fi Direct Virtual Adapter: Microsoft Wi-Fi Direct Virtual Adapter: Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @netvwifimp.inf,%msft%;Microsoft
+:WmiAcpiÅF@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @wmiacpi.inf,%msft%;Microsoft
+:WmiAcpiÅF@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @wmiacpi.inf,%msft%;Microsoft
+:WmiAcpiÅF@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @wmiacpi.inf,%msft%;Microsoft
+:WmiAcpiÅF@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @wmiacpi.inf,%msft%;Microsoft
+:WmiAcpiÅF@wmiacpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 10.0.16299.15: @wmiacpi.inf,%msft%;Microsoft
+∞TÆß≈„•‹ÅF¥∂≥q(1)
+∞TÆß≈„•‹ÅF¥∂≥q(10)
+≥¯ßiÅF∏‘≤”(0)
+æ‘∞´¶Ê∞ ∂∂ß«ÅF¢›¢‹(1)
+BgmSysEnableÅF¢›¢‹(1)
+SeSysEnableÅF¢›¢‹(1)
+MovieSysEnableÅF¢›¢‹(1)
+¢–¢’¢€ÅF¢›¢‹(1)
+≠µÆƒÅF¢›¢‹(1)
+MovieÅF¢›¢‹(1)
+¢–¢’¢€≠µ∂qÅF80(80)
+≠µÆƒ≠µ∂qÅF100(100)
+πC¿∏±–æ«ÅF¢›¢‹(1)
+Window ModeÅFFullScreen(1)

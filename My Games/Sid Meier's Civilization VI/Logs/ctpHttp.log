@@ -1,0 +1,195 @@
+*   Trying 192.81.242.131...
+* TCP_NODELAY set
+* Connected to 508223012e5a5ff19f30a391b2bdadc0.my.2k.com (192.81.242.131) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\etc\ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / DHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: C=US; ST=New York; L=New York; O=2K Games, Inc.; OU=IT; CN=*.my.2k.com
+*  start date: Mar  5 00:00:00 2018 GMT
+*  expire date: Mar  9 12:00:00 2020 GMT
+*  subjectAltName: host "508223012e5a5ff19f30a391b2bdadc0.my.2k.com" matched cert's "*.my.2k.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+> GET /discovery/v1/services HTTP/1.1
+Host: 508223012e5a5ff19f30a391b2bdadc0.my.2k.com
+Accept: */*
+Accept-Encoding: identity
+Content-Type:application/json
+User-Agent:2K CoreTech Client 2.0.6 (5e8935432d72a1d30681ee264aab6b9b-362541)
+Authorization:Application 5e8935432d72a1d30681ee264aab6b9b
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Sat, 22 Sep 2018 12:36:29 GMT
+< Content-Type: application/json
+< Content-Length: 1037
+< Connection: keep-alive
+< X-2k-Server-Time: 1537619789
+< Cache-Control: max-age=3600
+< ETag: 7b4bc1e1b1ba49e24cdd297c249f2188
+< X-2k-Result-Total: 4
+< X-2k-Result-Count: 4
+< X-2k-Result-More: false
+< P3P: CP="See http://www.take2games.com/privacy"
+< 
+* Connection #0 to host 508223012e5a5ff19f30a391b2bdadc0.my.2k.com left intact
+*   Trying 192.81.242.131...
+* TCP_NODELAY set
+* Connected to 798ce2d1755b23f16c6b1100d73fa464.my.2k.com (192.81.242.131) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\etc\ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / DHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: C=US; ST=New York; L=New York; O=2K Games, Inc.; OU=IT; CN=*.my.2k.com
+*  start date: Mar  5 00:00:00 2018 GMT
+*  expire date: Mar  9 12:00:00 2020 GMT
+*  subjectAltName: host "798ce2d1755b23f16c6b1100d73fa464.my.2k.com" matched cert's "*.my.2k.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+> GET /telemetry/v2/configs?offset=0&limit=100 HTTP/1.1
+Host: 798ce2d1755b23f16c6b1100d73fa464.my.2k.com
+Accept: */*
+Accept-Encoding: identity
+Content-Type:application/json
+User-Agent:2K CoreTech Client 2.0.6 (5e8935432d72a1d30681ee264aab6b9b-362541)
+Authorization:Application 5e8935432d72a1d30681ee264aab6b9b
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Sat, 22 Sep 2018 12:36:37 GMT
+< Content-Type: application/json
+< Content-Length: 109
+< Connection: keep-alive
+< X-2k-Server-Time: 1537619797
+< Cache-Control: max-age=3600
+< ETag: dd4877c5032fc838d49bc1a3f833e876
+< X-2k-Result-Total: 1
+< X-2k-Result-Count: 1
+< X-2k-Result-More: false
+< P3P: CP="See http://www.take2games.com/privacy"
+< 
+* Connection #0 to host 798ce2d1755b23f16c6b1100d73fa464.my.2k.com left intact
+*   Trying 192.81.242.131...
+* TCP_NODELAY set
+* Connected to 798ce2d1755b23f16c6b1100d73fa464.my.2k.com (192.81.242.131) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\etc\ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / DHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: C=US; ST=New York; L=New York; O=2K Games, Inc.; OU=IT; CN=*.my.2k.com
+*  start date: Mar  5 00:00:00 2018 GMT
+*  expire date: Mar  9 12:00:00 2020 GMT
+*  subjectAltName: host "798ce2d1755b23f16c6b1100d73fa464.my.2k.com" matched cert's "*.my.2k.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+> GET /telemetry/v2/configs/08db02f7a5044c5cb7bf17b7102293e6 HTTP/1.1
+Host: 798ce2d1755b23f16c6b1100d73fa464.my.2k.com
+Accept: */*
+Accept-Encoding: identity
+Content-Type:application/json
+User-Agent:2K CoreTech Client 2.0.6 (5e8935432d72a1d30681ee264aab6b9b-362541)
+Authorization:Application 5e8935432d72a1d30681ee264aab6b9b
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Sat, 22 Sep 2018 12:36:39 GMT
+< Content-Type: application/json
+< Content-Length: 2353
+< Connection: keep-alive
+< X-2k-Server-Time: 1537619799
+< Cache-Control: max-age=3600
+< ETag: 174f43ac7999b42bb38d8cde26d1986d
+< P3P: CP="See http://www.take2games.com/privacy"
+< 
+* Connection #0 to host 798ce2d1755b23f16c6b1100d73fa464.my.2k.com left intact
+*   Trying 192.81.242.130...
+* TCP_NODELAY set
+* Connected to 34acf0414d836d3f8d491c6186153694.my.2k.com (192.81.242.130) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\etc\ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / DHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: C=US; ST=New York; L=New York; O=2K Games, Inc.; OU=IT; CN=*.my.2k.com
+*  start date: Mar  5 00:00:00 2018 GMT
+*  expire date: Mar  9 12:00:00 2020 GMT
+*  subjectAltName: host "34acf0414d836d3f8d491c6186153694.my.2k.com" matched cert's "*.my.2k.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+> POST /sso/v2.0/auth/tokens HTTP/1.1
+Host: 34acf0414d836d3f8d491c6186153694.my.2k.com
+Accept: */*
+Accept-Encoding: identity
+User-Agent:2K CoreTech Client 2.0.6 (5e8935432d72a1d30681ee264aab6b9b-362541)
+Authorization:Application 5e8935432d72a1d30681ee264aab6b9b
+Content-Length:546
+Content-Type:application/json
+
+* upload completely sent off: 546 out of 546 bytes
+< HTTP/1.1 200 OK
+< Expires: 0
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< X-XSS-Protection: 1; mode=block
+< Pragma: no-cache
+< X-Frame-Options: DENY
+< Date: Sat, 22 Sep 2018 12:36:47 GMT
+< Connection: keep-alive
+< X-Content-Type-Options: nosniff
+< Transfer-Encoding: chunked
+< Content-Type: application/json;charset=UTF-8
+< 
+* Connection #0 to host 34acf0414d836d3f8d491c6186153694.my.2k.com left intact
+*   Trying 192.81.242.130...
+* TCP_NODELAY set
+* Connected to 34acf0414d836d3f8d491c6186153694.my.2k.com (192.81.242.130) port 443 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: E:\steam\steamapps\common\Sid Meier's Civilization VI\CTP\gamedata\etc\ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / DHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: C=US; ST=New York; L=New York; O=2K Games, Inc.; OU=IT; CN=*.my.2k.com
+*  start date: Mar  5 00:00:00 2018 GMT
+*  expire date: Mar  9 12:00:00 2020 GMT
+*  subjectAltName: host "34acf0414d836d3f8d491c6186153694.my.2k.com" matched cert's "*.my.2k.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+*  SSL certificate verify ok.
+> POST /sso/v2.0/presence/heartbeats HTTP/1.1
+Host: 34acf0414d836d3f8d491c6186153694.my.2k.com
+Accept: */*
+Accept-Encoding: identity
+User-Agent:2K CoreTech Client 2.0.6 (5e8935432d72a1d30681ee264aab6b9b-362541)
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI1MjBkOWYxZDJlYmQ0NzJmYjBlNmZmZjAzNWYyOTQxOSIsImlzcyI6IjVlODkzNTQzMmQ3MmExZDMwNjgxZWUyNjRhYWI2YjliIiwic3ViIjoiOTc2NjljMGM4MDUxZDY4MmFlYWFkNWMyZTI3NWIyZDgiLCJpYXQiOjE1Mzc2MTk4MDcsImV4cCI6MTUzNzcwNjIwNywidHR5IjowLCJhdHkiOjIsIm90eSI6MywiYWdwIjo2LCJwaWQiOiJiZTc2YzFlMWUwMjA0MTU0YWUxOTM0MDRkYTgwN2ZmMSIsImdpZCI6IjRkNjRjYjI4OTFkM2RmN2NmNTYzYTNkNjYxZWRiNDc5IiwibG9jIjoiemgtQ04iLCJmcGkiOiJkOUZDNUF0OXQzMHB4bVZhSDVISjB1cE1pRDBUMGhKenh2WCtROERLUlEwPSIsImZwYSI6Ik1zS3Raem42dmtaV01mcm13UVE0UGc9PSIsImRvYiI6IlY0amMwTG1GdjFoL0Rsdkp6Rzh5YlE9PSJ9.txqM9c4hf2zDWWx_sfaGHP30Cpfr-MM68_Rws7iCY3g
+Content-Length:0
+Content-Type:application/json
+
+< HTTP/1.1 201 Created
+< Expires: 0
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< X-XSS-Protection: 1; mode=block
+< Pragma: no-cache
+< X-Frame-Options: DENY
+< Date: Sat, 22 Sep 2018 12:37:19 GMT
+< Connection: keep-alive
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< 
+* Connection #0 to host 34acf0414d836d3f8d491c6186153694.my.2k.com left intact

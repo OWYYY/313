@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root Active="0">
+  <Profile_0 Name="配置文件0" IsSelected="1" CurrentDevice="0" IsKbEnable="0" IsMouseEnable="0" Icon="">
+    <ColorKb ActiveGroup="0" Brightness="3" Mode="2">
+      <Group0 Group_Left="#FF0000FF" Group_Mid="#FF0000FF" Group_Right="#FF0000FF" Group_Tp="#FF0000FF" Group_LightBar="#FF0000FF" Group_KbAll="#FF0000FF" Group_AutoLB="0" Group_Logo="#FF0000FF" />
+      <Group1 Group_Left="#FF0000FF" Group_Mid="#FF0000FF" Group_Right="#FF0000FF" Group_Tp="#FF0000FF" Group_LightBar="#FF0000FF" Group_KbAll="#FF0000FF" Group_AutoLB="0" Group_Logo="#FF0000FF" />
+      <Group2 Group_Left="#FF0000FF" Group_Mid="#FF0000FF" Group_Right="#FF0000FF" Group_Tp="#FF0000FF" Group_LightBar="#FF0000FF" Group_KbAll="#FF0000FF" Group_AutoLB="0" Group_Logo="#FF0000FF" />
+    </ColorKb>
+  </Profile_0>
+</root>
